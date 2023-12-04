@@ -14,7 +14,7 @@ const starContainerStyle = {
 StarRating.propTypes = {
   maxRating: PropTypes.number,
   color: PropTypes.number,
-  size: PropTypes.string,
+  size: PropTypes.number,
   onSetRating: PropTypes.func,
 };
 
