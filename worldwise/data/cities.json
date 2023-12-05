@@ -37,28 +37,40 @@
       "id": 98443197
     },
     {
-      "cityName": "Rihanna",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "cityName": "Batam",
+      "country": "Indonesia",
+      "emoji": "🇮🇩",
+      "date": "2023-12-05T05:36:37.667Z",
+      "notes": "xczzV",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "1.1191610035302346",
+        "lng": "104.11056518554689"
       },
-      "id": 178067243251
+      "id": 98443198
     },
     {
-      "cityName": "Britney",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Kundur Utara",
+      "country": "Indonesia",
+      "emoji": "🇮🇩",
+      "date": "2023-12-05T05:39:35.367Z",
+      "notes": "fsa",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "0.8088415414325131",
+        "lng": "103.39370727539064"
       },
-      "id": 98443443197
+      "id": 98443199
+    },
+    {
+      "cityName": "Kundur Utara",
+      "country": "Indonesia",
+      "emoji": "🇮🇩",
+      "date": "2023-12-05T05:42:21.610Z",
+      "notes": "dfss",
+      "position": {
+        "lat": "0.7813783660118266",
+        "lng": "103.42803955078125"
+      },
+      "id": 98443200
     }
   ]
 }
